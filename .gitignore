@@ -9,4 +9,3 @@ dist
 .netlify/
 dev-dist/
 .eslintcache
-package-lock.json

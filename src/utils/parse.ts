@@ -1,4 +1,4 @@
-import * as md from "../../prompts.md"
+import * as md from "../../prompt_mod.md"
 
 export function parsePrompts() {
   return md
